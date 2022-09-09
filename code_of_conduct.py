@@ -1,0 +1,7 @@
+print("Good morning or afternoon depending on when you see this. Welcome to Snor LLC. We work with gaming companies and build software to eliminate cheaters and players who abuse their games. Here at Snor we strive off greatness")
+print("Im looking for 3 engineers who are proficient in coding. I'd like you, to read over our code of conduct.  We Thrive off of 5 written rules")
+print("1. Dress Code: Casual Formal or Formal. No distressed denim or clothes with holes in them.") 
+print( "2. Now we are in New Orleans, if there is a flash flood warning for over 2 hours we will close. Hurricanes we will be closed for 3 days before and after we have an online system where youy may submit your projects to.")
+print("3. If you have symptoms for COVID-19, you will self isolate for as long as the CDC recommends, positive test or not. If you are sick and won't make it please call in at least before 9 am if not you will be marked late.")
+print( "4. Attendance: You will have to report to the office by 9 am o'clock everyday. You have a maximum of 2 late days before you get a write up. 3 writeups and you will be terminated.")
+print("5. We are closed for major holidays, and if your birthday comes up you may be bale to take the day off.")
